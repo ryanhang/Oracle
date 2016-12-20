@@ -1,2 +1,2 @@
 # Oracle
-This is a Oracle text
+This is a Oracle manual
